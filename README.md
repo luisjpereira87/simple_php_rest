@@ -1,7 +1,6 @@
 # simple_php_rest
 
-Nota: O projeto não tem persis
-
+Nota: O projeto não tem persis(dados locais);
 Colocar o projeto numa pasta de um servidor de PHP (Nginx,  Apache);
 
 Executar os  links  
